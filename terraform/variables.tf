@@ -1,0 +1,4 @@
+variable "public_key_value" {
+  type    = string
+  default = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCHJLXeoovhehoblfsXO1R4GoVaJ/1USwLFKisUcqGymC68vDM9gz64X9Bl6FzdO6M9tCg6nzs8BKx4LQly6D2lprK+2NwQsqUY9ZCTOjWxhi6y8fDdif5QEXSCQ+3wSndd7fWmuJe3YoSwuCHWPHHJ0xBao7XtAQBmBONcX/Qwc5NZrVwwgQondRP6VWSegnUK0VM3N9ryXa7uaFSDj7dkJq2MYvoum5mjjRSHRBeCV+EZnRCHwwbt8uApgEfeycLqTRwNf5ucLCtrilKGiv3wyrPMhu8xq0S/aJ1I7SDlQlD/K7YoNQatYGBrKSlBR0KCMudCA046DJ1dGe9zO9Mj"
+}
